@@ -23,7 +23,7 @@ body {
 
 .hero {
     text-align: left;
-    color: blue;
+    color: #333333;
     border: 2px solid #dfdfdf;
     padding: 3rem 5rem;
 }
