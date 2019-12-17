@@ -19,9 +19,6 @@ body {
 .contenedor {
     width: 70%;
     margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .hero {
@@ -29,4 +26,10 @@ body {
     color: #333333;
     border: 2px solid #dfdfdf;
     padding: 3rem 5rem;
+}
+
+.site-header {
+    background-color: lightskyblue;
+    width: 100%;
+    padding: 2rem 1rem;
 }
